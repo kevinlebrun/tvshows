@@ -1,0 +1,3 @@
+package: github.com/kevinlebrun/tvshows
+import:
+- package: github.com/PuerkitoBio/goquery
